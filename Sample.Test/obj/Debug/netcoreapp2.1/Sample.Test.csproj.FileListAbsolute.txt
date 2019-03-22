@@ -1,0 +1,17 @@
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.Test.deps.json
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.Test.runtimeconfig.json
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.Test.runtimeconfig.dev.json
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.Test.dll
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.Test.pdb
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.dll
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\bin\Debug\netcoreapp2.1\Sample.pdb
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.csprojAssemblyReference.cache
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.csproj.CoreCompileInputs.cache
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.AssemblyInfoInputs.cache
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.AssemblyInfo.cs
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.csproj.CopyComplete
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.dll
+C:\0. Miguel.Learn.Dev\.Net-Solid-Principles\Sample.Test\obj\Debug\netcoreapp2.1\Sample.Test.pdb

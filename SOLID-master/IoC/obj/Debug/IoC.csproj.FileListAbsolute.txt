@@ -1,0 +1,7 @@
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\bin\Debug\IoC.exe.config
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\bin\Debug\IoC.exe
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\bin\Debug\IoC.pdb
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\obj\Debug\IoC.csprojAssemblyReference.cache
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\obj\Debug\IoC.csproj.CoreCompileInputs.cache
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\obj\Debug\IoC.exe
+C:\0. Miguel.Learn.Dev\SOLID-master\IoC\obj\Debug\IoC.pdb
