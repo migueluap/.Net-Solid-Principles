@@ -13,12 +13,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Sample\Sample.csproj" />
+    <Folder Include="2 - OCP\Violation\" />
+    <Folder Include="2 - OCP\Solution\" />
+    <Folder Include="3 - LSP\Violation\" />
+    <Folder Include="3 - LSP\Solution\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="2 - OCP\Violation\" />
-    <Folder Include="2 - OCP\Solution\" />
+    <ProjectReference Include="..\Sample\Sample.csproj" />
   </ItemGroup>
 
 </Project>

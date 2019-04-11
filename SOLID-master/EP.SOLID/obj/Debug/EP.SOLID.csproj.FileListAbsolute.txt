@@ -1,6 +1,0 @@
-C:\0. Miguel.Learn.Dev\SOLID-master\EP.SOLID\bin\Debug\EP.SOLID.exe
-C:\0. Miguel.Learn.Dev\SOLID-master\EP.SOLID\bin\Debug\EP.SOLID.pdb
-C:\0. Miguel.Learn.Dev\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.csprojAssemblyReference.cache
-C:\0. Miguel.Learn.Dev\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.csproj.CoreCompileInputs.cache
-C:\0. Miguel.Learn.Dev\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.exe
-C:\0. Miguel.Learn.Dev\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.pdb
